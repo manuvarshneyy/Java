@@ -1,15 +1,6 @@
- case '+':{
-                System.out.println(n1+n2);
-            }break;
-            case '-':{
-                System.out.println(n1-n2);
-            }break;
-            case '*':{
-                System.out.println(n1*n2);
-            }break;
-            case '/':{
-                System.out.println(n1/n2);
-            }break;
-            default:{
-                System.out.println(-1);
-            }
+ // for(int i=mid+1;i<n;i++){
+        //     if(arr[mid+k]!=arr[mid]-k){
+        //         c++;
+        //     }
+        //     k++;
+        // }

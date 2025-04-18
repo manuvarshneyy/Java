@@ -9,7 +9,7 @@ import java.util.Scanner;
                a[j]=Integer.MIN_VALUE;
            }
        }
-           if(a[i]!=MIN_VALUE)
+           if(a[i]!=Integer.MIN_VALUE)
             System.out.println(a[i]+":"+f+"times");
    }
 */ 
